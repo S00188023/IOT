@@ -48,5 +48,4 @@ void loop() {
     // turn LED off:
     digitalWrite(ledPin, LOW);
   }
-  Console.WriteLine("Feck off Jason");
 }
